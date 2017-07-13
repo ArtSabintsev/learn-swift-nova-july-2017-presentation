@@ -1,6 +1,7 @@
-footer: © 2017, Arthur Ariel Sabintsev.
+footer: © 2017, Arthur Ariel Sabintsev.<br>ArtSabintsev on [Twitter](https://twitter.com/ArtSabintsev) & [Github](https://github.com/ArtSabintsev).
 autoscale: true
 slidenumbers: true
+theme: Plain Jane, 1
 
 <!-- BEGIN TALK -->
 
