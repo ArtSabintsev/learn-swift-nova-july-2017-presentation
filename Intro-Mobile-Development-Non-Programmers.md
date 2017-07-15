@@ -17,7 +17,7 @@ theme: Plain Jane, 1
 **Present**
 - Lead Developer, *The Washington Post*
 - Freelance, *The iOS Consultant*
-- Teacher, *Betamore & General Assembly*
+- Instructor, *Betamore & General Assembly*
 
 **Past**
 - Experimental Nuclear Physics, MS
@@ -291,7 +291,7 @@ I cannot comment on the hybrid approach as it's not my forté.
 - [Core Intuition](http://www.coreint.org) - Indy Development
 - [Release Notes](https://releasenotes.tv) - Indy Development
 - [Runtime](https://spec.fm/podcasts/runtime) - General iOS & Swift Development
-- [SwiftCoders](https://swiftcoders.podbean.com) - Interview with Swift Developers
+- [SwiftCoders](https://swiftcoders.podbean.com) - Interviews with Swift Developers
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) - Deep-dive into Swift language development
 - [Under the Radar](https://www.relay.fm/radar) - Indy Development
 
